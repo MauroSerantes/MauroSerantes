@@ -11,6 +11,6 @@ I'm a computer engineering student and a self-taught programmer who wants to be 
 
 ### I AM LEARNING
 
-| Jetpack Compose  | 
+| Jetpack Compose| 
 | ------------- |
-| <img height="35px" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png"> 
+| <img height="35px" src="https://tabris.com/wp-content/uploads/2021/06/jetpack-compose-icon_RGB.png"> |
