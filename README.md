@@ -6,4 +6,4 @@ I'm a computer engineering student and a self-taught programmer who wants to be 
 
 | Kotlin  | C/C++ | Java | SQL | 
 | ------------- | ------------- |------------- | ------------- |
-| <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">  | <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> |  <img height="30px" src="file:///C:/Users/Usuario/Desktop/Downloads/java.svg"> | <img height="30px" src="https://cdn.svgporn.com/logos/html-5.svg"> 
+| <img height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">  | <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> |  <img height="30px" src="file:///C:/Users/Usuario/Desktop/Downloads/java.svg"> | <img height="30px" src="https://logowik.com/content/uploads/images/azure-sql-database6354.jpg"> 
