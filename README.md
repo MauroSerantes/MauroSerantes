@@ -6,7 +6,7 @@ I'm a computer engineering student and a self-taught programmer who wants to be 
 
 | Kotlin  | C/C++ | Java | SQL | 
 | ------------- | ------------- |------------- | ------------- |
-| <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">  | <img height="35px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> |  <img height="35px" src="https://www.svgrepo.com/show/184143/java.svg"> | <img height="35px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> 
+| <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/06/Kotlin_Icon.svg">  | <img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"> |  <img height="50px" src="https://www.svgrepo.com/show/184143/java.svg"> | <img height="50px" src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg"> 
 
 
 ### I AM LEARNING
