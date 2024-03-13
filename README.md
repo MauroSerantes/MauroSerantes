@@ -1,4 +1,4 @@
- <h1>Hi There!</h1>
+ <h1>Hi, I´m Mauro</h1>
 
 _<h3>I'm a computer engineering student and a self-taught programmer who wants to be really good in software development.
 At this moment i am expecializing on Android native development, with perspectives to move on iOS as well.
