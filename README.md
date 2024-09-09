@@ -3,7 +3,7 @@
 ### I'm a computer engineering student and a self-taught programmer focused on becoming an expert in software development.  
 Currently, I'm specializing in **native Android development** with plans to expand into **iOS development** in the future.
 
-In this repository, you'll find my **side projects**, **algorithms**, and every single piece of code I’m working on. Feel free to explore and check out my progress!
+In this repository, you'll find my **side projects**, **algorithms**, and every single piece of code I’m working on. Feel free to explore and check out my progress
 
 ## 🛠 Main Languages I Use
 
